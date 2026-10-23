@@ -1,9 +1,20 @@
-# 霜焰 · Frostflame
+<h1 align="center">霜焰 · Frostflame</h1>
 
-白色卡通小龙，适用于支持第二版自定义宠物的 Codex 桌面应用。
-自创形象；本项目为社区作品。
+<p align="center">
+  白色卡通小龙，适用于支持第二版自定义宠物的 Codex 桌面应用。<br>
+  自创形象；本项目为社区作品。
+</p>
 
-![霜焰动作预览](preview.gif)
+<p align="center">
+  <img src="preview.gif" alt="霜焰动作预览" width="192">
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Codex-compatible-8A2BE2" alt="Codex compatible">
+  <img src="https://img.shields.io/badge/Sprite-v2-blue" alt="Sprite v2">
+  <img src="https://img.shields.io/badge/dependencies-0-brightgreen" alt="dependencies: 0">
+</p>
 
 ## 动作
 
@@ -24,7 +35,8 @@
 
 1. 下载仓库 ZIP 并解压，找到同时包含 `pet.json` 和 `spritesheet.png` 的 `frostflame` 文件夹。
 2. 将整个文件夹复制到下面的宠物目录，避免多嵌套一层。已有同名宠物时先备份。
-3. 在应用的宠物设置中刷新，选择“霜焰”；没有出现时完全退出应用后重新打开。
+3. **安装完成后，需要完全退出并重启 Codex，新的宠物才会显示。**
+4. 重启后进入宠物设置，选择“霜焰”。
 
 | 环境 | 安装目录 |
 | --- | --- |
@@ -61,4 +73,4 @@
 
 ## 许可
 
-沿用仓库已有的 MIT License，详见 [LICENSE](LICENSE)。
+[MIT](LICENSE)
